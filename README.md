@@ -6,5 +6,9 @@ Yet here again is another osu! asset remover, written in rust. The idea of the p
 - removes image assets (.png | .jpg)
 thats it :D
 
-### will this project be actively maintained? 
+## How to build
+1. Install [Rust](https://www.rust-lang.org/tools/install)
+2. in the projects directory run `cargo run` and it runs!
+
+# will this project be actively maintained? 
 probably not. feel free to fork it!
